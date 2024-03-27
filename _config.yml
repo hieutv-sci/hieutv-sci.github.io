@@ -49,13 +49,13 @@ author:
 
   # Social media
   bluesky: # Replace this with you Bluesky username
-  facebook: 'hieutv' # Username
+  facebook: . # Username
   flickr: # Username
   foursquare: # Username
   goodreads: # Username
   google_plus: # Username
   keybase: # Username
-  instagram: vhieu # Username
+  instagram: . # Username
   lastfm: # Username
   linkedin: # Username
   mastodon: # URL
