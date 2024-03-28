@@ -1,6 +1,6 @@
 ---
 title: 'Hướng dẫn nhóm SV thực hiện Project Xây dựng hệ thống tra cứu cơ sở dữ liệu trên địa bàn TP Đà Nẵng'
-excerpt: 'Phụ trách hướng dẫn nhóm sinh viên tham gia “Xây dựng hệ thống tra cứu cơ sở dữ liệu đối tượng bảo trợ xã hội và Người Có Công trên địa bàn Phường Phước Ninh, Quận Hải Châu, TP Đà Nẵng” – cho địa bàn Phường Phước Ninh, Quận Hải Châu, TP Đà Nẵng.'
+excerpt: 'Ths Trần Việt Hiếu phụ trách hướng dẫn nhóm sinh viên tham gia “Xây dựng hệ thống tra cứu cơ sở dữ liệu đối tượng bảo trợ xã hội và Người Có Công trên địa bàn Phường Phước Ninh, Quận Hải Châu, TP Đà Nẵng” – cho địa bàn Phường Phước Ninh, Quận Hải Châu, TP Đà Nẵng.'
 date: 2023-10-15
 permalink: /posts/2023/10/huong-dan-hackathon/
 thumbnail: /images/posts/xay-dung-he-thong-btxh/(4).jpg

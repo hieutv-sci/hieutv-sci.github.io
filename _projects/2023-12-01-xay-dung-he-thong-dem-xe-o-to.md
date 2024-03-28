@@ -1,5 +1,5 @@
 ---
-title: 'Xây Đựng Hệ Thống Nhận Diện Và Đếm Xe Ô Tô'
+title: 'Developing a System for Vehicle Recognition and Counting'
 excerpt: 'Hiện nay, quản lý lưu lượng giao thông là một thách thức lớn trong việc duy trì an ninh và hiệu suất của các khu vực đô thị và giao thông. Sự gia tăng nhanh chóng của số lượng xe cộ đưa ra một loạt các thách thức về việc đảm bảo an toàn, giảm ùn tắc giao  thông và tối ưu hóa quản lý lưu lượng xe giờ cao điểm.'
 date: 2023-12-01
 permalink: /products/2013/12/xay-dung-he-thong-dem-xe-o-to/

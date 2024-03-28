@@ -13,7 +13,7 @@ location: "Da Nang, VN"
   - Programming Techniques
   - Discrete Mathematics / Graph Theory
   - Microsoft Office (Word, Excel, Powerpoint)
-  - <span style="color: red;">Teaching algebra for the national-level Math Olympiad for students</span>
+  - <span style="color: red;">Teaching the national team competing in the Student Mathematics Olympiad, Algebra Mathematics</span>
 - <span style="color: #b45f06; font-style: italic; font-weight: 700;">Compiling lectures</span>
   - Python Programming Basic
   - Probability and Statistics for Data Science

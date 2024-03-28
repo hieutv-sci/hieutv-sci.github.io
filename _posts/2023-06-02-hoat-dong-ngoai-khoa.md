@@ -1,6 +1,6 @@
 ---
 title: 'Bức Tranh Sôi Động Của Hoạt Động Ngoại Khóa: Từ Giáo Dục Quốc Phòng Đến Cắm Trại và Hơn Thế Nữa Cùng Với Sinh Viên Đông Á'
-excerpt: 'Hoạt động ngoại khóa tại các trường học không chỉ là những giờ phút thư giãn sau những bài giảng nặng nề mà còn là cơ hội để sinh viên phát triển kỹ năng sống, kỹ năng xã hội và hiểu biết thực tế. Tại Trung tâm Giáo dục Quốc phòng-An ninh, Đại học Quốc gia Hà Nội, sinh viên được tham gia vào một loạt các hoạt động đặc sắc, từ tập thể dục buổi sáng đến học cách sắp xếp nội vụ gọn gàng, ngăn nắp.'
+excerpt: 'Hoạt động ngoại khóa tại các trường học không chỉ là những giờ phút thư giãn sau những bài giảng nặng nề mà còn là cơ hội để sinh viên phát triển kỹ năng sống, kỹ năng xã hội và hiểu biết thực tế. Tại Trung tâm Giáo dục Quốc phòng-An ninh sinh viên được tham gia vào một loạt các hoạt động đặc sắc, từ tập thể dục buổi sáng đến học cách sắp xếp nội vụ gọn gàng, ngăn nắp.'
 date: 2023-06-02
 permalink: /posts/2023/06/hoat-dong-ngoai-khoa/
 thumbnail: /images/posts/hoat-dong-ngoai-khoa/(6).jpg
@@ -15,11 +15,9 @@ tags:
   <img src="/images/posts/hoat-dong-ngoai-khoa/(6).jpg" width="70%"/>
 </div>
 
-Hoạt động ngoại khóa tại các trường học không chỉ là những giờ phút thư giãn sau những bài giảng nặng nề mà còn là cơ hội để sinh viên phát triển kỹ năng sống, kỹ năng xã hội và hiểu biết thực tế. Tại Trung tâm Giáo dục Quốc phòng-An ninh, Đại học Quốc gia Hà Nội, sinh viên được tham gia vào một loạt các hoạt động đặc sắc, từ tập thể dục buổi sáng đến học cách sắp xếp nội vụ gọn gàng, ngăn nắp.
+Hoạt động ngoại khóa tại các trường học không chỉ là những giờ phút thư giãn sau những bài giảng nặng nề mà còn là cơ hội để sinh viên phát triển kỹ năng sống, kỹ năng xã hội và hiểu biết thực tế. Tại Trung tâm Giáo dục Quốc phòng-An ninh, sinh viên được tham gia vào một loạt các hoạt động đặc sắc, từ tập thể dục buổi sáng đến học cách sắp xếp nội vụ gọn gàng, ngăn nắp.
 
-<div align="center" style="margin-bottom: 16px">
-  <img src="/images/posts/hoat-dong-ngoai-khoa/(10).jpg" width="70%"/>
-</div>
+
 
 <div style="display: flex; gap: 16px; align-items: center; margin-bottom: 16px">
   <img src="/images/posts/hoat-dong-ngoai-khoa/(6).jpg" width="48%"/>
@@ -40,7 +38,7 @@ Cắm trại là một trong những hoạt động ngoại khóa được yêu 
 </div>
 
 
-Lễ 20/11, hay còn gọi là Ngày Nhà giáo Việt Nam, là dịp để sinh viên bày tỏ lòng biết ơn đối với thầy cô và những người đã dìu dắt họ trên con đường tri thức. Hoạt động đoàn và các sự kiện liên quan đến giáo dục quốc phòng cũng là những phần không thể thiếu trong chuỗi hoạt động ngoại khóa, giúp sinh viên rèn luyện tinh thần đoàn kết và lòng yêu nước3.
+Lễ 20/11, hay còn gọi là Ngày Nhà giáo Việt Nam, là dịp để sinh viên bày tỏ lòng biết ơn đối với thầy cô và những người đã dìu dắt họ trên con đường tri thức. Hoạt động đoàn và các sự kiện liên quan đến giáo dục quốc phòng cũng là những phần không thể thiếu trong chuỗi hoạt động ngoại khóa, giúp sinh viên rèn luyện tinh thần đoàn kết và lòng yêu nước.
 
 
 <div style="display: flex; gap: 16px; align-items: center; margin-bottom: 16px">

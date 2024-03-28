@@ -12,7 +12,7 @@ redirect_from:
 ## Education
 ---
 
-- **Master of Computer Science** / Artificial Intelligence / Machine Learning / Deep Learning, Danang University of Science and Technology, *(2022 - 2024)*
+- **Master of Computer Science** (Artificial Intelligence / Machine Learning / Deep Learning), Danang University of Science and Technology, *(2022 - 2024)*
   - Advisors: Ph.D. Pham Cong Thang
 - **Master of Algebra and Number Theory**, Hue University of Education, *(2017 - 2019)*
   - Advisors: Assoc. Prof. Nguyen Dang Ho Hai

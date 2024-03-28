@@ -1,5 +1,5 @@
 ---
-title: 'Khám Phá Cơ Hội Nghề Nghiệp với FPT Software: Một Ngày Đáng Nhớ cho Tân Sinh Viên K23 IT Đại Học Đông Á'
+title: 'Kiến tập thực tế tại doanh nghiệp cho Tân Sinh Viên K23 ngành CNTT, Đại Học Đông Á'
 excerpt: 'Hôm nay, ngày 16/11, sinh viên Khoa Công nghệ Thông tin - K23 của Đại học Đông Á đã trải qua một ngày đầy ắp cơ hội và tri thức tại FPT Software. Sự kiện này đánh dấu một bước tiến vững chắc từ giảng đường đại học đến bức tranh lớn của ngành công nghiệp phần mềm.'
 date: 2023-11-16
 permalink: /posts/2023/11/huong-dan-kien-tap/
