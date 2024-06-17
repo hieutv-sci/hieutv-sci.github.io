@@ -1,8 +1,8 @@
 ---
 permalink: /
-title: "About"
+title: 'About'
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
@@ -18,9 +18,9 @@ My research interests primarily focus on [machine learning and deep learning](#)
 
 ## Recent Updates
 
-- [10/02/2023] Research on Session-based Recommendation with Graph Neural Networks
+- [10/03/2024] Research on Deep Learning Image Reconstruction for CT
+- [10/02/2024] Research on Session-based Recommendation with Graph Neural Networks
 - [20/02/2023] Research on Vehicle Detection and Counting in Images at the Parking Lot of Dong A University
-- [10/03/2023] Research on Deep Learning Image Reconstruction for CT
 
 <div class="notice">
   <p>

@@ -12,17 +12,19 @@ redirect_from:
 <!-- <p class="notice--info">Click <a href="/files/cv.pdf">here</a> to download the PDF version.</p> -->
 
 ## Education
+
 ---
 
-- **Master of Computer Science** (Artificial Intelligence / Machine Learning / Deep Learning), Danang University of Science and Technology, *(2022 - 2024)*
+- **Master of Computer Science** (Artificial Intelligence / Machine Learning / Deep Learning), Danang University of Science and Technology, _(2022 - 2024)_
   - Advisors: Ph.D. Pham Cong Thang
-- **Master of Algebra and Number Theory**, Hue University of Education, *(2017 - 2019)*
+- **Master of Algebra and Number Theory**, Hue University of Education, _(2017 - 2019)_
   - Advisors: Assoc. Prof. Nguyen Dang Ho Hai
   - Thesis: Smith normal form and some related math problems
-- **Bachelor of Mathematics (Major: Mathematical Optimization)**, Hue University of Sciences, *(2013 - 2017)*
+- **Bachelor of Mathematics (Major: Mathematical Optimization)**, Hue University of Sciences, _(2013 - 2017)_
   - Advisors: PhD Student. Nguyen Duy Ai Nhan
 
 ## Awards
+
 ---
 
 - [09/2013] Valedictorian of the Mathematics department - Hue University of Sciences, 2013
@@ -31,7 +33,14 @@ redirect_from:
 - [05/2016] Attained Third Prize individually (Algebra subject, Group A) in the national Mathematics Olympiad for university students, organized by the Vietnam Institute of Mathematics at Quy Nhon University - Quy Nhon City, 2016.
 - [04/2017] Achieved Third Prize individually (Algebra subject, Group A) in the national Mathematics Olympiad for university students, organized by the Vietnam Institute of Mathematics at Phu Yen University - Tuy Hoa City, 2017.
 
+<div class="awards-image" align="center">
+  <img src="/images/about/1.jpg" />
+  <img src="/images/about/2.jpg" />
+  <img src="/images/about/3.jpg" />
+</div>
+
 ## Research Experience
+
 ---
 
 - [10/2020] Lecturer at the Faculty of Information Technology - Dong A University
@@ -40,6 +49,7 @@ redirect_from:
 - [03/2023] Research on Deep Learning Image Reconstruction for CT
 
 ## Teaching
+
 ---
 
 - <span style="color: #91bbff; font-style: italic; font-weight: 700;">University courses</span>
