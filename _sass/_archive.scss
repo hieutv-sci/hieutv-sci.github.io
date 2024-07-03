@@ -4,19 +4,14 @@
 
 .archive {
   margin-bottom: 2em;
-  border-radius: 6px;
-  padding: 24px;
-  box-shadow: rgba(149, 157, 165, 0.2) 0px 4px 12px;
 
-  // @include breakpoint($medium) {
-  //   @include span(12 of 12);
-  // }
+  @include breakpoint($medium) {
+    @include span(12 of 12);
+  }
 
   @include breakpoint($large) {
     @include span(10 of 12 last);
     @include prefix(0.5 of 12);
-
-    padding: 32px 32px 32px 52px;
   }
 
   a {
@@ -148,22 +143,17 @@
    ========================================================================== */
 
 .list__item {
-  margin: 24px 0;
-  box-shadow: rgba(149, 157, 165, 0.2) 0px 4px 12px;
-  padding: 16px;
-  border-radius: 10px;
-
-  // @include breakpoint($medium) {
-  //   padding-right: $right-sidebar-width-narrow;
-  // }
-
-  @include breakpoint($large) {
-    padding: 24px;
+  @include breakpoint($medium) {
+    padding-right: $right-sidebar-width-narrow;
   }
 
-  // @include breakpoint($x-large) {
-  //   padding-right: $right-sidebar-width-wide;
-  // }
+  @include breakpoint($large) {
+    padding-right: $right-sidebar-width;
+  }
+
+  @include breakpoint($x-large) {
+    padding-right: $right-sidebar-width-wide;
+  }
 
   .page__meta {
     margin: 0 0 4px;

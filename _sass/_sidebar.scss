@@ -9,9 +9,6 @@
 .sidebar {
   -webkit-transform: translate3d(0, 0, 0);
   transform: translate3d(0, 0, 0);
-  padding: 16px;
-  box-shadow: rgba(149, 157, 165, 0.2) 0px 4px 12px;
-  border-radius: 10px;
 
   @include clearfix();
   margin-bottom: 2em;
