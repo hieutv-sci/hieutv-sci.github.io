@@ -340,8 +340,12 @@
   padding-top: 20px;
   border-top: 1px solid $border-color;
   display: grid;
-  grid-template-columns: repeat(3, 1fr);
+  grid-template-columns: repeat(1, 1fr);
   gap: 20px;
+
+  @include breakpoint($large) {
+    grid-template-columns: repeat(3, 1fr);
+  }
 
   .ellipsis p {
     text-align: justify;
