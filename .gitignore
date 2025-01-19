@@ -4,9 +4,18 @@ _site/
 # Ignore the Gemfile that is generated
 Gemfile.lock
 
-# Ingore files created by npm
+# Ignore files created by npm
 node_modules
 package-lock.json
 
 .bundle
-vendor
+
+# Ignore specific content in vendor/
+vendor/*
+
+# Do not ignore the root-level vendor directory
+!vendor/
+
+# If you want to exclude subfolders, whitelist specific paths like:
+!vendor/breakpoint/
+!vendor/some_other_folder/
